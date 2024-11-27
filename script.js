@@ -1,3 +1,3 @@
 function sim() {
-    alert("OFICIALMENTE MEU MOZIN!!!!!!")
+    alert("marcado >:) gostosa")
 }
